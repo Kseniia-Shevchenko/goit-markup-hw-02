@@ -64,7 +64,6 @@ button {
 }
 
 .address-link {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -104,9 +103,6 @@ background: #2e2f42;
 }
 
 
-.features {
-
-}
 
 .features-list {
 
@@ -125,7 +121,6 @@ background: #2e2f42;
 }
 
 .features-item-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -171,7 +166,6 @@ background-color: #F4F4FD;
 }
 
 .team-item-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -203,7 +197,7 @@ background-color: #F4F4FD;
 }
 
 .portfolio-image {
-   
+ width: 360px;
 }
 
 .portfolio-subtitle {
@@ -215,7 +209,6 @@ background-color: #F4F4FD;
 }
 
 .portfolio-item-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -246,7 +239,6 @@ background: #2e2f42;
 }
 
 .footer-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
