@@ -147,12 +147,11 @@ background-color: #F4F4FD;
 }
 
 .team-item {
-
+background-color: #FFFFFF;
 }
 
 .team-image {
-    width: 264px;
-    height: 260px;
+ 
 }
 
 .team-subtitle {
@@ -162,7 +161,7 @@ background-color: #F4F4FD;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    background-color: #FFF;
+    background-color: #FFFFFF;
 }
 
 .team-item-text {
@@ -197,7 +196,7 @@ background-color: #F4F4FD;
 }
 
 .portfolio-image {
- width: 360px;
+
 }
 
 .portfolio-subtitle {
